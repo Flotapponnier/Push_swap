@@ -8,9 +8,13 @@ The sorting algorithm used in this project is explained in detail [here](https:/
 
 ## Features
 -Efficient sorting algorithm based on the Mechanical Turk method
+
 -Handles any valid integer input within the int range
+
 -Optimized for minimal operations
+
 -Robust error handling and input validation
+
 -Memory-leak free and stable performance
 
 
