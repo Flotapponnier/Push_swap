@@ -1,4 +1,4 @@
-#Push_swap 
+# Push_swap 
 
 Push_swap is a sorting algorithm project developed as part of the 42 School curriculum. This implementation follows the Mechanical Turk approach and is optimized for efficiency, achieving approximately:
 around 5290 moves for 500 numbers
